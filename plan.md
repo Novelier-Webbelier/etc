@@ -16,7 +16,7 @@
     <tbody>
         <tr>
             <td>Word</td>
-            <td colspan=6>60 pieces per day</td>
+            <td colspan=6>30 words per day</td>
             <td rowspan=4>FFT</td>
         </tr>
         <tr>
