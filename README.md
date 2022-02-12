@@ -4,9 +4,9 @@ Mark : ✅ ❌ 🚀
 
 [2022 TODOS](./2022)
 
-## [Todays TODO](https://github.com/Novelier-Webbelier/todos/blob/master/2022/2-Feb/12.md)
+## [Todays TODO](https://github.com/Novelier-Webbelier/todos/blob/master/2022/2-Feb/13.md)
 
-# February 12, 2022, MY TODO 🚀
+# February 13, 2022, MY TODO 🚀
 
 - 🚀 [Default]
 
@@ -15,18 +15,18 @@ Mark : ✅ ❌ 🚀
 
 - 🚀 [Academy]
 
-  - Go to the academy.
+  - 내신 숙제 완.
 
 - 🚀 [Seatword]
 
-  - Word Master ~ 300w.
-  - Grammar Zone(+WB) ~ 25 unit.
-  - Junior Reading Tutor ~ 10 unit.
+  - Word Master ~ 330w.
+  - Grammar Zone(+WB) ~ 30 unit.
+  - Junior Reading Tutor ~ 12 unit.
 
 - 🚀 [Dev] [Poster](https://github.com/Novelier-Webbelier/poster)
 
   - [Plan] Interim planning confirmation.
-  - [Front-end] Feature implementation : Styling.
-  - [Front-end] <https://github.com/pugjs/pug/issues/404>
+  - [Front-end] & [Back-end] Feature implementation : Create new Poster
+  - [Front-end] & [Back-end] Feature implementation : Create new Topic
   - [Github] Commit at least 5.
 
