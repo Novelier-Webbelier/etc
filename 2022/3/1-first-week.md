@@ -2,15 +2,21 @@
 
 - Main
 
-- 3 / 5 & 3/ 6
+- 3 / 5 & 3 / 6
 
-  - [ ] Ready to go to School
-    - [ ] Buy a Notice Book
+  - [x] Ready to go to School
+    - [x] Buy a Notice Book
 
 - 3 / 7
+
+  - [ ] Get up at 6:30
+
+  - [ ] Talking to Mom about Studying Abroad on the Car
 
   - [ ] Go to the School at 8:00
 
   - [ ] Recap
 
   - [ ] Plan the Roadmap of the My English
+
+  - [ ] Happy Coding
