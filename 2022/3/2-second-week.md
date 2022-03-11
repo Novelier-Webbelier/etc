@@ -2,7 +2,12 @@
 
 - 3 / 10
 
-  - [ ] Buy a Korean Note
-  - [ ] Buy a Folder
-  - [ ] Buy a Highlight
-  - [ ] End a Page Two Project plan
+  - [x] Buy a Korean Note
+  - [x] Buy a Folder
+  - [x] Buy a Highlight
+  - [x] End a Page Two Project plan
+
+- 3 / 11
+
+  - [x] Go to School
+  - [x] Develop Page Two Project
