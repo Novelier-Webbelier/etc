@@ -14,6 +14,17 @@
 
 - 3 / 12
 
-  - [ ] Activing club `Pycoding`
-  - [ ] Cleaning the My Desktop which will come to my home
-  - [ ] Listening the IU Music
+  - [x] Activing club `Pycoding`
+  - [x] Create an organization which is called `Pycoding-Free-Club`
+  - [x] Cleaning the My Desktop which will come to my home
+  - [x] Listening the IU Music
+  - [x] Do Homework
+    - [x] `Chinese Letter`
+
+- 3 / 13
+
+  - [x] Activing club `Pycoding`
+  - [x] Adding and Updating ideas of `Pycoding`
+  - [ ] Getting ready to go to school(From Google Translator)
+  - [ ] Do Homework
+    - [ ] `Music`
