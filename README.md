@@ -6,4 +6,4 @@
 
 만약 어법상의 틀린 부분이 있거나, 이렇게 말을 하였으면 좋을텐데 했던 것 들을 issue 나 PR 을 날려주심 감사하겠습니다.
 
-###### I MUST GO TO THE AMERICA!
+###### I MUST GO TO THE AMERICA... or CANADA!
